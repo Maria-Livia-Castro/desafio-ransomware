@@ -2,8 +2,8 @@
 #
 ## Encrypter
 python .\encrypter.py
-![Captura de tela 2024-12-08 200053](https://github.com/user-attachments/assets/a39fea0a-cb91-4332-a49d-e075d098943b)
+![Captura de tela 2024-12-08 200053](https://github.com/user-attachments/assets/4cdda0c4-44f7-48f5-977e-001d1395d01d)
 #
 ## Decrypter
 python .\decrypter.py
-![Captura de tela 2024-12-08 200202](https://github.com/user-attachments/assets/b50a811a-1ff6-404a-b920-0cbc1b83fb2c)
+![Captura de tela 2024-12-08 200202](https://github.com/user-attachments/assets/bab50f3e-b183-408a-a6de-b7d7dffea5ee)
