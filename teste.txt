@@ -1,0 +1,3 @@
+A criptografia é uma técnica utilizada para proteger informações, convertendo-as de
+uma forma legível para uma forma cifrada que só pode ser entendida
+por alguém que tenha a chave de decodificação.
